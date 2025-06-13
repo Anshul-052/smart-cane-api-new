@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+ultralytics
+numpy
+opencv-python
+gtts
+pydub
+easyocr
+googlemaps
+googletrans==4.0.0rc1
+base64
+logging
+sys
+os
+re
